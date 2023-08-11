@@ -14,4 +14,4 @@ Navigoi komentokehotteessa työpöydälle kirjoittamalla "cd desktop" tai haluam
 Aja ohjelma PowerShell:ssä/komentokehotteessa kirjoittamalla "python remote_locations.py"
 Ohjelman suoritettuaan näyttää ensimmäiset 20 riviä ja luo tiedoston "output.xlsx"
 
-Ohjelma suoritettu Python 3.9.13 versiolla
+Ohjelma testattu Python 3.9.13 versiolla
